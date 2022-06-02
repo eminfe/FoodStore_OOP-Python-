@@ -1,4 +1,4 @@
-# FoodStore_OOP-Python-
+# Food Store OOP (Python)
 STOCK MANAGEMENT IN FOOD STORE 
 
 Food Store, selling the below mentioned items:
