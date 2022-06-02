@@ -1,0 +1,2 @@
+# FoodStore_OOP-Python-
+STOCK MANAGEMENT IN FOOD STORE 
